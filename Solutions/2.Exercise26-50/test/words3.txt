@@ -1,0 +1,4 @@
+My name is Sajal Kuikel.
+Today is 27th NOV 2020 .
+I am learning python!!
+This is next experiment with file in another directory. 

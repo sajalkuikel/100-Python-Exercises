@@ -1,0 +1,4 @@
+
+kuikel,sajal
+sjal ,kuikel
+sajal,kuikel
